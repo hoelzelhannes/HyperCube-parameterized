@@ -1,24 +1,27 @@
 # HyperCube-parameterized
+
+**quick guide**
+
 Build your own invidual HyperCube Evolution 3D-printer in just seconds in any size you want. Simply set the desired size of the building space in the spreadsheet. Your computer will calculate the right printer for you, with all the appropriate printed parts you need. (This printer is still in progress and not finished yet, but what is there works fine. It was constructed with FreeCAD 0.19)
 
-Anleitung
+**Anleitung in Deutsch**
 
-Dieser 3d-Drucker ist mit der folgenden Betriebssystem und FreeCAD-Version konstruiert worden:
-OS: Windows 11 Professional
-Word size of OS: 64-bit
-Word size of FreeCAD: 64-bit
-Version: 0.19.24291 (Git)
-Build type: Release
-Branch: releases/FreeCAD-0-19
-Hash: 7b5e18a0759de778b74d3a5c17eba9cb815035ac
-Python version: 3.8.6+
-Qt version: 5.15.2
-Coin version: 4.0.1
-OCC version: 7.5.0
+Dieser 3d-Drucker ist mit der folgenden Betriebssystem und FreeCAD-Version konstruiert worden:<br>
+OS: Windows 11 Professional<br>
+Word size of OS: 64-bit<br>
+Word size of FreeCAD: 64-bit<br>
+Version: 0.19.24291 (Git)<br>
+Build type: Release<br>
+Branch: releases/FreeCAD-0-19<br>
+Hash: 7b5e18a0759de778b74d3a5c17eba9cb815035ac<br>
+Python version: 3.8.6+<br>
+Qt version: 5.15.2<br>
+Coin version: 4.0.1<br>
+OCC version: 7.5.0<br>
 Locale: German/Germany (de_DE)
 
 Starteprozess:
-Zum Starten die "HCE Printer asm 1l" Datei öffnen. Die Datei findest du im Ordner: "Assembly Printer" > "Zusammenbau ganzer Drucker". Alle verlinkten Dokumente werden entsprechend geladen und verlinkt.
+Zum Starten die "HCE Printer asm 1l" Datei mit FreeCAD 0.19 öffnen. Die Datei findest du im Ordner: "Assembly Printer" > "Zusammenbau ganzer Drucker". Alle verlinkten Dokumente werden entsprechend geladen und verlinkt.
 
 Ladeprozess: (partial geladene Dokumente)
 Falls ein paar Dokumente nur partial geladen werden (sieht man daran, dass das Dokumentsymbol grau statt bund ist) einfach mit Doppelklick auf das entsprechende Symbol klicken. Es wird damit erneut aufgerufen und vollständig geladen.
